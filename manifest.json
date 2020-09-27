@@ -1,0 +1,9 @@
+{
+    "manifest_version": 2,
+    "name": "Productivity",
+    "version": "1.0",
+    "description": "Task tracker",
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
